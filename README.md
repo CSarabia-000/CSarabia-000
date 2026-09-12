@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">¡Hola! Soy Carlos 👋</h1>
 
-<!--
-**CSarabia-000/CSarabia-000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Investigador en NLP & Machine Learning · Estudios de Posgrado, Universidad Tecnológica de la Mixteca
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/NLP-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/EdTech-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data%20Science-informational?style=flat-square" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔬 Sobre mí
+
+- 🎓 Trabajo en investigación de **NLP** en el **Departamento de Estudios de Posgrado** de la UTM
+- 🧠 Mi trabajo está en la intersección de **tecnología educativa, ciencia de datos y procesamiento de lenguaje natural**
+- 📊 Actualmente desarrollo mi **tesis de maestría**, aplicando NLP al análisis de sesiones de tutoría académica
+- 🌱 Explorando temas de **embeddings, modelado de tópicos, clasificación con LLMs** y validación estadística de pipelines de NLP
+
+### 🚀 Proyectos destacados
+
+| Proyecto | Descripción |
+|---|---|
+| **Análisis NLP de Tutorías** | Pipeline de NLP (BERTopic, clasificación con LLMs, NER) para detectar problemáticas en sesiones de tutoría individual y grupal, con fines de retención estudiantil |
+| **CBOW / Spanish Billion Word Corpus** | Entrenamiento de un modelo de embeddings CBOW desde cero sobre el corpus SBWC, con experimentación sistemática de hiperparámetros |
+
+### 🛠️ Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+</p>
+
+### 📫 Contacto
+
+- ✉️ csarabia0005@gmail.com
+- 🔗 [LinkedIn](https://linkedin.com/in/carlos-sarabia-lópez-4b7697331)
+
+---
+
+<p align="center"><i>Última actualización: septiembre 2026</i></p>
