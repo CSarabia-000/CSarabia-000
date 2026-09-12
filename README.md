@@ -7,8 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/NLP-informational?style=flat-square" />
   <img src="https://img.shields.io/badge/Machine%20Learning-informational?style=flat-square" />
-  <img src="https://img.shields.io/badge/EdTech-informational?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data%20Science-informational?style=flat-square" />
+   <img src="https://img.shields.io/badge/Data%20Science-informational?style=flat-square" />
 </p>
 
 ---
