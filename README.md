@@ -20,12 +20,7 @@
 - 📊 Actualmente desarrollo mi **tesis de maestría**, aplicando NLP al análisis de sesiones de tutoría académica
 - 🌱 Explorando temas de **embeddings, modelado de tópicos, clasificación con LLMs** y validación estadística de pipelines de NLP
 
-### 🚀 Proyectos destacados
 
-| Proyecto | Descripción |
-|---|---|
-| **Análisis NLP de Tutorías** | Pipeline de NLP (BERTopic, clasificación con LLMs, NER) para detectar problemáticas en sesiones de tutoría individual y grupal, con fines de retención estudiantil |
-| **CBOW / Spanish Billion Word Corpus** | Entrenamiento de un modelo de embeddings CBOW desde cero sobre el corpus SBWC, con experimentación sistemática de hiperparámetros |
 
 ### 🛠️ Stack
 
